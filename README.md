@@ -4,7 +4,7 @@ Tags that clearly describe their meaning. Examples: `<header>`, `<nav>`, `<artic
 ## Q2: Difference between div and span?
 div = block element (full width, new line). span = inline element (only needed width).
 
-## Q3: Block-level vs inline elements?
+## Q3: Block-level vs inline elements? 
 Block: starts new line, full width. Examples: `<div>`, `<p>`, `<h1>`.
 Inline: no new line, needed width. Examples: `<span>`, `<a>`, `<img>`.
 
